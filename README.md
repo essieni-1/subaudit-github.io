@@ -40,13 +40,6 @@ python3 -m http.server 3000
 # then visit http://localhost:3000
 ```
 
-## 🌐 Deploying to GitHub Pages
-
-1. Push this repo to GitHub
-2. Go to **Settings → Pages**
-3. Set source to **main branch / root**
-4. Visit `https://yourusername.github.io/subaudit`
-
 ## 📱 Features Shown
 
 - Hero section with animated phone mockup
@@ -55,19 +48,6 @@ python3 -m http.server 3000
 - Feature grid with usage scoring demo
 - Pricing cards (Free vs Pro)
 - Waitlist email capture form
-
-## 🎨 Customization
-
-All colors are CSS variables in `css/styles.css`:
-
-```css
-:root {
-  --lime: #C8FF00;    /* accent color */
-  --bg: #09090F;      /* main background */
-  --text: #FFFFFF;    /* body text */
-  --muted: #666680;   /* secondary text */
-}
-```
 
 ---
 
